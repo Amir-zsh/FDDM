@@ -1,0 +1,9 @@
+torch
+torchvision
+datasets
+pytorch-fid
+einops
+scipy
+torch-dct
+diffusers==0.17.1
+transformers==4.28.1
